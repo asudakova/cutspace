@@ -1,0 +1,21 @@
+%button {
+   display: block;
+   width: 172px;
+   padding: 17px 3px;
+   text-align: center;
+   white-space: nowrap;
+   
+   font-family: 'Poppins', sans-serif;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 24px;
+   letter-spacing: 0.015px;
+   
+   border-radius: 29px;
+
+   transition: 0.2s ease-in-out;
+}
+%orangeButton {
+   color: $white;
+   background-color: $orange;
+}
